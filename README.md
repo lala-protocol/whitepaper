@@ -17,13 +17,12 @@ The goal is to provide a comprehensive understanding of how Lala Protocol intend
 
 The primary document detailing the Lala Protocol is available here:
 
-*   [**View the Lala Protocol Whitepaper (PDF)**](./lala_protocol_whitepaper.pdf) 
-    <!-- Make sure your compiled PDF is named 'lala_protocol_whitepaper.pdf' and is in the root, or adjust the path -->
+*   [**View the Lala Protocol Whitepaper (PDF)**](lala-protocol-whitepaper.pdf) 
+   
 
 The LaTeX source file used to generate the PDF is also included in this repository:
 
-*   [`lala_protocol_whitepaper.tex`](./lala_protocol_whitepaper.tex) 
-    <!-- Link to the .tex file -->
+*   [`lala-protocol-whitepaper.tex`](./lala-protocol-whitepaper.tex) 
 
 ## 💡 Project Status
 
@@ -38,16 +37,15 @@ Future milestones include:
 
 We welcome feedback, questions, and suggestions regarding the concepts and details presented in the whitepaper.
 
-*   **Discussions & Questions:** Please use the [Issues](../../issues) tab in this repository to ask questions, propose improvements, or report any identified errata in the whitepaper text or diagrams.
+*   **Discussions & Questions:** Please use the [Issues](https://github.com/lala-protocol/whitepaper/issues) tab in this repository to ask questions, propose improvements, or report any identified errata in the whitepaper text or diagrams.
 *   **Contributions:** At this stage, contributions are primarily focused on refining the whitepaper concept. If you wish to contribute directly to the document, please refer to potential contribution guidelines (to be added) or open an issue to discuss your suggestions. Code contributions will be relevant for the core protocol repository once established. 
-    <!-- TODO: Add link to main protocol repo when available -->
 
 ## 📜 License
 
 The Lala Protocol whitepaper document (text, diagrams, compiled PDF) is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE.md). This means you are free to share and adapt the material, provided you give appropriate credit.
 
 Please see the `LICENSE.md` file for the full license text. 
-<!-- **IMPORTANT:** You need to actually create a file named LICENSE.md in the repository and paste the text of the CC BY 4.0 license into it. You can find it here: https://creativecommons.org/licenses/by/4.0/legalcode -->
+
 
 ---
 
