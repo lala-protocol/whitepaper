@@ -1,0 +1,2 @@
+# whitepaper
+Lala protocol whitepaper
